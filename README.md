@@ -1,0 +1,1 @@
+*A simple blog Application using the Flask python web-framework and SQLite3 as the database.*
